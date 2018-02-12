@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Ilham]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [2018-01-13].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Started a Nulungan Web App. A charity target mapping for people who love the needs. Worked on the draft layout of the app, struggled with Django version 1.11 and Python 3.x
