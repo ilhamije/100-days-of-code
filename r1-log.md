@@ -11,3 +11,8 @@ Started a Nulungan Web App. A charity target mapping for people who love help ot
 Setting up STATIC, Database, and try to retrieve all data from database. If data not exist, return "This is not the droid you are looking for, Neo. Wanna try some cookies?".
 
 Pushed to repo: [R1D2 latest commit](https://github.com/rokukode/nulungan_backend/commit/7c8f231f05880d979e385ff330ff836d8f72cf74)
+
+### R1D3
+Created superuser to access mainapp from admin page, adn registering Target to admin page. Unfinished making CREATE part of CRUD. Form doesn't work. But posting via admin page was succeed. I think something wrong with its ModelForm.
+
+Pushed to repo: [R1D3 latest commit](https://github.com/rokukode/nulungan_backend/commit/85476546fb3a9aef682b9f328e60475ed4784d1a)
